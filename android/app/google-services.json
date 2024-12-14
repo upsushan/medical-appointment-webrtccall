@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1067824770093",
+    "project_id": "medicalapp-1e076",
+    "storage_bucket": "medicalapp-1e076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067824770093:android:e3cdd07dbe49fe58699ca4",
+        "android_client_info": {
+          "package_name": "com.callappointment.medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067824770093-l1275pajac02vfg0n20e879c1947uh7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Pdyj0w9kLUl2sl6EbXskQ9if5KxNIK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067824770093-l1275pajac02vfg0n20e879c1947uh7v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067824770093-v3nrmjdnhs72169e067vg1sq5jk13q2j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mediappoint.mainapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
